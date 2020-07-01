@@ -5,6 +5,7 @@ This artificial intelligence iOS app will tell the user if the object they took 
 
 ## Demo:
 
-<img style="float:left;" src="https://media.giphy.com/media/VbE3UYeZ2ywdJH0hej/giphy.gif" title="hotdog"/></a>
-
-<img style="float:left;" src="https://media.giphy.com/media/WovVJt20yNiakNiVSU/giphy.gif" title="nothotdog"/></a>
+<div>
+<img style="float:left;" src="https://media.giphy.com/media/VbE3UYeZ2ywdJH0hej/giphy.gif" title="hotdog"/>
+<img style="float:left;" src="https://media.giphy.com/media/WovVJt20yNiakNiVSU/giphy.gif" title="nothotdog"/>
+</div>
