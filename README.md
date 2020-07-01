@@ -7,5 +7,5 @@ This artificial intelligence iOS app will tell the user if the object they took 
 
 <div>
 <img style="float: left; padding-right: 100px;" src="https://media.giphy.com/media/VbE3UYeZ2ywdJH0hej/giphy.gif" title="hotdog"/>
-<img style="float: left; padding: 100px;" src="https://media.giphy.com/media/WovVJt20yNiakNiVSU/giphy.gif" title="nothotdog"/>
+<img style="float: left; padding-left: 100px;" src="https://media.giphy.com/media/WovVJt20yNiakNiVSU/giphy.gif" title="nothotdog"/>
 </div>
